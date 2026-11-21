@@ -1,0 +1,48 @@
+{
+  "features": [
+    "rain_total_mm",
+    "rain_days",
+    "tmax_mean",
+    "tmin_mean",
+    "tmean",
+    "hot_days",
+    "rh_mean",
+    "solar_mean",
+    "rain_early",
+    "tmax_early",
+    "rain_mid",
+    "tmax_mid",
+    "rain_late",
+    "tmax_late",
+    "soil_phh2o",
+    "soil_soc",
+    "soil_clay",
+    "lag_yield",
+    "season_code"
+  ],
+  "weather": [
+    "rain_total_mm",
+    "rain_days",
+    "tmax_mean",
+    "tmin_mean",
+    "tmean",
+    "hot_days",
+    "rh_mean",
+    "solar_mean",
+    "rain_early",
+    "tmax_early",
+    "rain_mid",
+    "tmax_mid",
+    "rain_late",
+    "tmax_late"
+  ],
+  "soil": [
+    "soil_phh2o",
+    "soil_soc",
+    "soil_clay"
+  ],
+  "optional": [
+    "area"
+  ],
+  "target": "yield"
+}

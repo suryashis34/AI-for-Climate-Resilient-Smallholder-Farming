@@ -1,0 +1,57 @@
+season,feature,n,spearman_z_vs_anomaly_shap,strength
+Kharif,rain_total_mm,40,-0.4597110357335025,moderate+
+Kharif,rain_days,40,-0.5470514368023804,moderate+
+Kharif,tmax_mean,40,0.07344106842565862,weak/noise (|rho|<0.3)
+Kharif,tmin_mean,40,-0.044891087861208205,weak/noise (|rho|<0.3)
+Kharif,tmean,40,-0.33057872232521524,moderate+
+Kharif,hot_days,38,-0.04998912430055103,weak/noise (|rho|<0.3)
+Kharif,rh_mean,40,-0.28521806241524966,weak/noise (|rho|<0.3)
+Kharif,solar_mean,40,-0.703887483934884,moderate+
+Kharif,rain_early,40,-0.17120596897695098,weak/noise (|rho|<0.3)
+Kharif,tmax_early,40,0.41857652426235353,moderate+
+Kharif,rain_mid,40,0.1631293297383236,weak/noise (|rho|<0.3)
+Kharif,tmax_mid,40,-0.007700981599621492,weak/noise (|rho|<0.3)
+Kharif,rain_late,40,0.7700042455523978,moderate+
+Kharif,tmax_late,40,-0.4651580714990884,moderate+
+Rabi,rain_total_mm,73,0.12865497420617994,weak/noise (|rho|<0.3)
+Rabi,rain_days,73,-0.012328725224509812,weak/noise (|rho|<0.3)
+Rabi,tmax_mean,73,-0.15826506001832424,weak/noise (|rho|<0.3)
+Rabi,tmin_mean,73,-0.007915567494335609,weak/noise (|rho|<0.3)
+Rabi,tmean,73,-0.4980481239418417,moderate+
+Rabi,hot_days,67,0.22303171694411927,weak/noise (|rho|<0.3)
+Rabi,rh_mean,73,-0.10456881268832832,weak/noise (|rho|<0.3)
+Rabi,solar_mean,73,-0.34925087487114237,moderate+
+Rabi,rain_early,73,-0.6220895412653582,moderate+
+Rabi,tmax_early,73,-0.6860312794652154,moderate+
+Rabi,rain_mid,73,-0.6524094050594508,moderate+
+Rabi,tmax_mid,73,0.17522258180443503,weak/noise (|rho|<0.3)
+Rabi,rain_late,73,-0.28621025624255597,weak/noise (|rho|<0.3)
+Rabi,tmax_late,73,-0.37800306525581634,moderate+
+Summer,rain_total_mm,44,-0.23502045203274782,weak/noise (|rho|<0.3)
+Summer,rain_days,44,0.1273836023348448,weak/noise (|rho|<0.3)
+Summer,tmax_mean,44,-0.0004934442604166871,weak/noise (|rho|<0.3)
+Summer,tmin_mean,44,-0.05794445458035954,weak/noise (|rho|<0.3)
+Summer,tmean,44,0.19061046859524602,weak/noise (|rho|<0.3)
+Summer,hot_days,44,0.162318457640133,weak/noise (|rho|<0.3)
+Summer,rh_mean,44,0.004863950566964487,weak/noise (|rho|<0.3)
+Summer,solar_mean,44,0.35936236766342583,moderate+
+Summer,rain_early,44,0.42464403210716045,moderate+
+Summer,tmax_early,44,0.7802763597931872,moderate+
+Summer,rain_mid,44,-0.6474693617038959,moderate+
+Summer,tmax_mid,44,-0.09558720244643254,weak/noise (|rho|<0.3)
+Summer,rain_late,44,0.5162836804702595,moderate+
+Summer,tmax_late,44,-0.2637107111741181,weak/noise (|rho|<0.3)
+All,rain_total_mm,157,-0.0893902392783657,weak/noise (|rho|<0.3)
+All,rain_days,157,-0.3231871691210764,moderate+
+All,tmax_mean,157,-0.0519750359169266,weak/noise (|rho|<0.3)
+All,tmin_mean,157,-0.038449432148926876,weak/noise (|rho|<0.3)
+All,tmean,157,-0.32319261967018487,moderate+
+All,hot_days,149,0.07368399113234664,weak/noise (|rho|<0.3)
+All,rh_mean,157,-0.17353955906391486,weak/noise (|rho|<0.3)
+All,solar_mean,157,-0.21700782804238922,weak/noise (|rho|<0.3)
+All,rain_early,157,-0.13432104523793556,weak/noise (|rho|<0.3)
+All,tmax_early,157,0.181588557018711,weak/noise (|rho|<0.3)
+All,rain_mid,157,-0.32733108538803324,moderate+
+All,tmax_mid,157,-0.0925130830234937,weak/noise (|rho|<0.3)
+All,rain_late,157,0.03640113195661602,weak/noise (|rho|<0.3)
+All,tmax_late,157,-0.48881497905057264,moderate+

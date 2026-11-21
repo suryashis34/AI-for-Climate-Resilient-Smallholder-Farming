@@ -1,0 +1,20 @@
+,mean_abs_shap,mean_abs_anomaly_shap,group,label
+lag_yield,245.12868,215.76984240219093,last-year yield,Last year's yield
+rain_early,128.30801,80.33478524274886,weather,Early-season rainfall
+soil_phh2o,82.63342,18.212935437062743,soil,Soil pH
+rain_late,74.49816,43.10112335120037,weather,Late-season rainfall
+soil_soc,73.869415,12.662492270302621,soil,Soil organic carbon
+tmax_late,65.341736,29.95007467744457,weather,Late-season max temperature
+rain_mid,57.084282,44.500820226540235,weather,Mid-season rainfall
+rh_mean,53.81392,25.69718472061643,weather,Relative humidity
+tmax_early,48.66021,30.89259051858999,weather,Early-season max temperature
+tmax_mid,45.85568,33.039772045460474,weather,Mid-season max temperature
+tmean,41.218945,27.010538057536834,weather,Mean temperature
+solar_mean,33.076874,27.00384287925283,weather,Solar radiation
+rain_total_mm,31.276423,33.02994525166834,weather,Season rainfall
+season_code,29.012514,4.2866294778836,season effect,Season
+tmin_mean,24.04466,23.55100693159802,weather,Mean min temperature
+hot_days,21.907139,19.930532202836435,weather,Days above 35 C
+soil_clay,21.419712,8.168707613352757,soil,Soil clay content
+tmax_mean,20.538803,13.068079271419034,weather,Mean max temperature
+rain_days,16.876911,18.6968651853834,weather,Rainy days
